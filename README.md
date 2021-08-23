@@ -1,4 +1,4 @@
-![Build Status](https://travis-ci.org/yduartep/angular-full-sample.svg?branch=master)
+![Build Status](https://travis-ci.org/yduartep/angular-full-sample.svg?branch=master) 
 
 # Getting Started
 
